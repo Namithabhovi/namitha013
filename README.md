@@ -1,9 +1,9 @@
 # namitha013
-# thanmayijr
+
 <!--
-**thanmayi0610/thanmayijr ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**namitha013/namitha013 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# `Hello World, I'm Thanmayi J R 👋🏽`
+# `Hello World, I'm Namitha 👋🏽`
 
 I am  `Full-Stack Developer`. 
 * I develop web applications in  `React js`, `Next js` .
